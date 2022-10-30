@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+
+    font-size: 18px;
+
+    padding: 12px 16px 12px 18px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.addbtn{
+    margin-left: auto;
+    font-size: 14px;
+
+    padding: 8px;
+    width: 84px;
+
+    border: none;
+    border-radius: 6px;
+    outline: none;
+}
